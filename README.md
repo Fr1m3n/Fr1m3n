@@ -1,11 +1,8 @@
 ### Hi there 👋, my name is Roman
-#### I am Junior Java Backend Developer
-![I am Java Backend Developer](https://pbs.twimg.com/media/D6uCZ3TXYAYqK6H.jpg:large)
+#### I am Developer
+![I am Developer](https://pbs.twimg.com/media/D6uCZ3TXYAYqK6H.jpg:large)
 
-
-Skills: Java SE, Spring Boot, PostgreSQL, Python, OOP
-
-- 🔭 I’m currently working on <a href="https://promocatcompany.com/">PromoCat LTD</a> 
+ 
 - 📫 How to reach me: <r.devyatilov@yandex.ru> 
 
 
